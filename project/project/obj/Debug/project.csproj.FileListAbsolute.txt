@@ -1,0 +1,10 @@
+C:\Users\Simeon\source\repos\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\Simeon\source\repos\project\project\obj\Debug\project.Form1.resources
+C:\Users\Simeon\source\repos\project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\Simeon\source\repos\project\project\obj\Debug\project.csproj.GenerateResource.Cache
+C:\Users\Simeon\source\repos\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\Simeon\source\repos\project\project\bin\Debug\project.exe.config
+C:\Users\Simeon\source\repos\project\project\bin\Debug\project.exe
+C:\Users\Simeon\source\repos\project\project\bin\Debug\project.pdb
+C:\Users\Simeon\source\repos\project\project\obj\Debug\project.exe
+C:\Users\Simeon\source\repos\project\project\obj\Debug\project.pdb
